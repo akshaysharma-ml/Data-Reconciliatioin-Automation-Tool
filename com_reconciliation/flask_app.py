@@ -1,6 +1,6 @@
 """
 Lightweight Flask front-end for the financial data reconciliation system.
-(Replacement for streamlit_app.py - same workflow, same features, far less RAM.)
+(Replacement for streamlit_app.py)
 
 Run:
     pip install flask
