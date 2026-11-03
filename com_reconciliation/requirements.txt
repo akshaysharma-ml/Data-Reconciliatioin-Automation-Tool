@@ -25,4 +25,4 @@ pytest-asyncio==0.25.0
 httpx==0.28.1
 
 # Web UI
-streamlit==1.41.1
+flask>=2.2
